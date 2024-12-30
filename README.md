@@ -86,9 +86,7 @@
 <h3 align="center">📫 Hire me 📫</h3>
 
 <div align="center">
-  <a href="mailto:wnsqo35@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836.svg?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail Badge"/>
-  </a>
+  
   
   <a href="https://ionized-cold-e43.notion.site/162a7e7ec9bb8000abc3fb3ebcb4ad90">
     <img src="https://upload.wikimedia.org/wikipedia/commons/4/45/Notion_app_logo.png" alt="Notion" width="30px"/>
