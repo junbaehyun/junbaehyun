@@ -70,6 +70,13 @@
     </td>
   </tr>
 </table>
+<div align="center">
+  <img
+    src="https://github-readme-stats.vercel.app/api/top-langs?username=junbaehyun&show_icons=true&locale=en&layout=compact&theme=transparent"
+    height="150" alt="languages graph" />
+  <img src="https://github-readme-stats.vercel.app/api?username=junbaehyun&show_icons=true&theme=transparent"
+    height="150" alt="stats graph" />
+</div>
 
 <br />
 
