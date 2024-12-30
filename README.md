@@ -89,3 +89,6 @@
     <img src="https://img.shields.io/badge/Gmail-D14836.svg?style=for-the-badge&logo=gmail&logoColor=white" />&nbsp
   </a>
 
+  <a href="https://www.notion.so/128e951e3e618064a461c77c319274b2?v=128e951e3e6181e4a1ac000c923e8661">
+    <img src="https://bizlog.me/wp-content/uploads/2021/03/notion-logo.png" width="30px">
+  </a>
