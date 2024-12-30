@@ -44,8 +44,6 @@
         alt="python logo" />
       <img width="12" />
       
-      
-    </td>
   </tr>
   <tr>
     <td align="center">
