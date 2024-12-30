@@ -78,6 +78,4 @@
 
 <br />
 
-<div align="center">
-  <img src="https://github.com/junbaehyun/junbaehyun/blob/output/github-snake.svg" alt="Snake animation" />
-</div>
+
