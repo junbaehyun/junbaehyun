@@ -2,40 +2,7 @@
 
 import { motion, useScroll, useTransform } from 'framer-motion';
 
-const projects = [
-  {
-    flag: '🇰🇿',
-    title: 'Kazakhstan Dictionary',
-    stack: 'Flutter · Dart · HTTP · Auth Architecture',
-    description:
-      'A multilingual dictionary concept separating shared vocabulary from user-owned personal words, with server-side authorization boundaries.',
-    href: 'https://github.com/junbaehyun/iOS_kazakhstan_dictionary',
-  },
-  {
-    flag: '🇧🇩',
-    title: 'Media Monitoring Automation',
-    stack: 'Python · RSS · Google Sheets · Google Cloud',
-    description:
-      'An automated news-monitoring workflow that collects RSS articles, structures recurring research data, and sends results into Google Sheets.',
-    href: 'https://github.com/junbaehyun/bangladesh-media-monitoring',
-  },
-  {
-    flag: '💍',
-    title: 'Personalized Invitation',
-    stack: 'Interactive Web · Data-driven UI · GitHub Pages',
-    description:
-      'A real-world personalized invitation experience with guest-specific content, responsive interaction, media, and data-driven presentation.',
-    href: 'https://junbaehyun.github.io/invitation/',
-  },
-  {
-    flag: '🌏',
-    title: 'KORBAN Consulting Web',
-    stack: 'Web · Business Information · International Operations',
-    description:
-      'A multi-page implementation translating Korea–Bangladesh consulting and operational services into clear digital information architecture.',
-    href: 'https://github.com/junbaehyun/korbanconsulting',
-  },
-];
+const projects = [];
 
 const experience = [
   {
@@ -187,20 +154,14 @@ export default function Home() {
 
       <section className="section" id="projects">
         <Reveal>
-          <p className="section-label">Selected projects</p>
-          <h2>Real problems.<br /><span>Working systems.</span></h2>
+          <p className="section-label">Selected work</p>
+          <h2>Private case studies.<br /><span>Available on request.</span></h2>
+          <p className="lead">
+            Some professional and personal projects are intentionally kept private because
+            they contain personal, organizational, or operational context. Relevant code
+            samples and case studies can be shared selectively during the application process.
+          </p>
         </Reveal>
-        <div className="project-grid">
-          {projects.map((project, index) => (
-            <Reveal key={project.title} delay={index * 0.06} className="project-card">
-              <div className="project-flag">{project.flag}</div>
-              <p className="stack">{project.stack}</p>
-              <h3>{project.title}</h3>
-              <p>{project.description}</p>
-              <a href={project.href} target="_blank" rel="noreferrer">Explore project ↗</a>
-            </Reveal>
-          ))}
-        </div>
       </section>
 
       <section className="section focus-section">
