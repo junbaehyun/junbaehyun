@@ -24,20 +24,16 @@ My background combines **software development**, **international operations**, a
 
 ## 🛠 Tech I use
 
-**Frontend & Web**
-
+**Frontend & Web**  
 `JavaScript` · `React` · `Next.js` · `HTML` · `CSS` · `Tailwind CSS`
 
-**Mobile & Structured Content**
-
+**Mobile & Structured Content**  
 `Flutter` · `Dart` · `XML` · `JSON`
 
-**Backend & Data**
+**Backend & Data**  
+`Node.js` · `Express` · `PostgreSQL` · `Firebase` · `Python`
 
-`Node.js` · `Express` · `PostgreSQL` · `Prisma` · `Firebase` · `Python`
-
-**Workflow & Delivery**
-
+**Workflow & Delivery**  
 `Git` · `GitHub` · `Vercel` · `Google Sheets` · `Google Cloud` · Automation
 
 ---
@@ -49,9 +45,9 @@ My background combines **software development**, **international operations**, a
 <td width="50%" valign="top">
 
 ### 🇰🇿 Kazakhstan Dictionary
-**Flutter · Mobile · Auth · Data Security**
+**Flutter · Dart · HTTP · Auth Architecture**
 
-A multilingual dictionary concept with separated public and personal vocabulary data, token-based authentication, and user-scoped access.
+A Flutter dictionary project exploring shared and personal vocabulary, user-scoped access, and a clearer separation between public and private data.
 
 [View repository →](https://github.com/junbaehyun/iOS_kazakhstan_dictionary)
 
@@ -61,7 +57,7 @@ A multilingual dictionary concept with separated public and personal vocabulary 
 ### 🇧🇩 Media Monitoring Automation
 **Python · RSS · Google Sheets · Google Cloud**
 
-Automated news monitoring pipeline that collects RSS articles, filters and categorizes them, and writes structured monitoring data to Google Sheets.
+Automated monitoring workflow that collects news from RSS, structures the data, and sends it into Google Sheets for recurring reporting.
 
 [View repository →](https://github.com/junbaehyun/bangladesh-media-monitoring)
 
@@ -71,43 +67,22 @@ Automated news monitoring pipeline that collects RSS articles, filters and categ
 <tr>
 <td width="50%" valign="top">
 
-### 🧑‍💻 Docthru Backend
-**Node.js · Express · PostgreSQL · Prisma**
+### 💍 Personalized Invitation
+**Interactive Web · Data-driven UI · GitHub Pages**
 
-Team backend project with REST APIs, authentication middleware, service/controller architecture, Swagger documentation, and deployment.
+A personalized wedding invitation experience with guest-specific content, responsive interaction, media, and data-driven presentation.
 
-[View repository →](https://github.com/junbaehyun/docthru-be)
+[View repository →](https://github.com/junbaehyun/invitation) · [Live site →](https://junbaehyun.github.io/invitation/)
 
 </td>
 <td width="50%" valign="top">
 
-### 🌏 KORBAN Consulting
-**Web · International Business · Digital Operations**
+### 🌏 KORBAN Consulting Web
+**HTML/CSS · Business Content · Digital Operations**
 
-Web implementation supporting a Korea–Bangladesh consulting business, including service information and operational content for overseas business support.
+A multi-page web implementation supporting a Korea–Bangladesh consulting business and its overseas business-support information.
 
 [View repository →](https://github.com/junbaehyun/korbanconsulting)
-
-</td>
-</tr>
-
-<tr>
-<td width="50%" valign="top">
-
-### 💍 Personalized Invitation
-**React · Firebase · Data Integration**
-
-Interactive wedding invitation project developed around personalized guest experiences, responsive UI, data-driven content, and interactive features.
-
-[View repository →](https://github.com/junbaehyun/invitation)
-
-</td>
-<td width="50%" valign="top">
-
-### 🔧 What I work on professionally
-**Web · Mobile · Automation · International Operations**
-
-I work at the intersection of software and real operational problems: application maintenance, multilingual structured content, workflow automation, internal tools, testing, and cross-border coordination.
 
 </td>
 </tr>
@@ -115,9 +90,19 @@ I work at the intersection of software and real operational problems: applicatio
 
 ---
 
-## 🧭 What I'm looking for
+## 🔧 Professional focus
 
-I am building toward roles such as:
+I work at the intersection of software and real operational problems:
+
+- Web and mobile application maintenance
+- Multilingual structured content and data workflows
+- Internal tools and automation
+- Testing and release support
+- International operations and partner coordination
+
+---
+
+## 🧭 Roles I am building toward
 
 - **Software / Web Developer**
 - **Digital Systems Coordinator**
