@@ -38,55 +38,11 @@ My background combines **software development**, **international operations**, a
 
 ---
 
-## 🚀 Selected Projects
+## 🚀 Selected Work
 
-<table>
-<tr>
-<td width="50%" valign="top">
+Some professional and personal projects are kept **private** because they include personal, organizational, or operational context.
 
-### 🇰🇿 Kazakhstan Dictionary
-**Flutter · Dart · HTTP · Auth Architecture**
-
-A Flutter dictionary project exploring shared and personal vocabulary, user-scoped access, and a clearer separation between public and private data.
-
-[View repository →](https://github.com/junbaehyun/iOS_kazakhstan_dictionary)
-
-</td>
-<td width="50%" valign="top">
-
-### 🇧🇩 Media Monitoring Automation
-**Python · RSS · Google Sheets · Google Cloud**
-
-Automated monitoring workflow that collects news from RSS, structures the data, and sends it into Google Sheets for recurring reporting.
-
-[View repository →](https://github.com/junbaehyun/bangladesh-media-monitoring)
-
-</td>
-</tr>
-
-<tr>
-<td width="50%" valign="top">
-
-### 💍 Personalized Invitation
-**Interactive Web · Data-driven UI · GitHub Pages**
-
-A personalized wedding invitation experience with guest-specific content, responsive interaction, media, and data-driven presentation.
-
-[View repository →](https://github.com/junbaehyun/invitation) · [Live site →](https://junbaehyun.github.io/invitation/)
-
-</td>
-<td width="50%" valign="top">
-
-### 🌏 KORBAN Consulting Web
-**HTML/CSS · Business Content · Digital Operations**
-
-A multi-page web implementation supporting a Korea–Bangladesh consulting business and its overseas business-support information.
-
-[View repository →](https://github.com/junbaehyun/korbanconsulting)
-
-</td>
-</tr>
-</table>
+Detailed case studies and code samples can be shared selectively during the application/interview process.
 
 ---
 
