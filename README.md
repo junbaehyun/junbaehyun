@@ -1,94 +1,149 @@
 <div align="center">
-  <img
-    src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=40&duration=2000&pause=1000&color=808080&center=true&vCenter=true&repeat=false&width=435&lines=Junbae+Hyun"
-    alt="Typing SVG" />
+
+# Junbae Hyun
+
+### Software & Digital Systems · International Operations · Cross-cultural Technology
+
+I build practical digital products and systems for people working across languages, countries, and organizations.
+
+My background combines **software development**, **international operations**, and **Korean language & culture**. I am especially interested in technology roles in international, nonprofit, education, and mission-driven organizations.
+
 </div>
 
-<div align="center">
-  <img
-    src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&duration=2000&pause=300&color=808080&center=true&vCenter=true&width=435&lines=Future+Developer;Leaning+Solver;Hire+me"
-    alt="Typing SVG" />
-</div>
+---
 
-<h3 align="center">💫 Currently Learning 💫</h3>
+## 👋 About me
 
-<br />
+- 💻 Working with web/mobile applications, structured data, automation, and digital operations
+- 🌏 Experience across Korea, Kazakhstan, and Bangladesh-related international projects
+- 🎓 Studying **Computer Engineering** alongside **Korean Language & Culture / Korean Language Education**
+- 🧩 Interested in **Software Development, Digital Systems, Application Integration, and Technical Operations**
+- 🌱 I enjoy turning repetitive or fragmented work into simpler digital workflows
 
-<table align="center" border="0">
-  <tr>
-    <td width="50%" align="center">
-      <h3>✨ Frontend ✨</h3>
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="60"
-        alt="react logo" />
-      <img width="12" />
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="60"
-        alt="nextjs logo" />
-      <img width="12" />
-      <img src="https://cdn.simpleicons.org/tailwindcss/06B6D4" height="60" alt="tailwindcss logo" />
-      <img width="12" />
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="60"
-        alt="html5 logo" />
-      <img width="12" />
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="60"
-        alt="css3 logo" />
-    </td>
-    <td width="50%" align="center">
-      <h3>✨ Language ✨</h3>
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="60"
-        alt="javascript logo" />
-      <img width="12" />
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="60"
-        alt="typescript logo" />
-      <img width="12" />
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="60"
-        alt="python logo" />
-      <img width="12" />
-      
-  </tr>
-  <tr>
-    <td align="center">
-      <h3>✨ Backend ✨</h3>
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="60"
-        alt="postgresql logo" />
-      <img width="12" />
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="60"
-        alt="nodejs logo" />
-      <img width="12" />
-      <img src="https://skillicons.dev/icons?i=express" height="60" alt="express logo" />
-      <img width="12" />
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="60"
-        alt="mongodb logo" />
-    </td>
-    <td align="center">
-      <h3>✨ And so on.. ✨</h3>
-      <img src="https://skillicons.dev/icons?i=aws" height="60" alt="aws logo" />
-      <img width="12" />
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg" height="60"
-        alt="visualstudio logo" />
-      <img width="12" />
-      <img src="https://skillicons.dev/icons?i=github" height="60" alt="github logo" />
-    </td>
-  </tr>
+---
+
+## 🛠 Tech I use
+
+**Frontend & Web**
+
+`JavaScript` · `React` · `Next.js` · `HTML` · `CSS` · `Tailwind CSS`
+
+**Mobile & Structured Content**
+
+`Flutter` · `Dart` · `XML` · `JSON`
+
+**Backend & Data**
+
+`Node.js` · `Express` · `PostgreSQL` · `Prisma` · `Firebase` · `Python`
+
+**Workflow & Delivery**
+
+`Git` · `GitHub` · `Vercel` · `Google Sheets` · `Google Cloud` · Automation
+
+---
+
+## 🚀 Selected Projects
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+### 🇰🇿 Kazakhstan Dictionary
+**Flutter · Mobile · Auth · Data Security**
+
+A multilingual dictionary concept with separated public and personal vocabulary data, token-based authentication, and user-scoped access.
+
+[View repository →](https://github.com/junbaehyun/iOS_kazakhstan_dictionary)
+
+</td>
+<td width="50%" valign="top">
+
+### 🇧🇩 Media Monitoring Automation
+**Python · RSS · Google Sheets · Google Cloud**
+
+Automated news monitoring pipeline that collects RSS articles, filters and categorizes them, and writes structured monitoring data to Google Sheets.
+
+[View repository →](https://github.com/junbaehyun/bangladesh-media-monitoring)
+
+</td>
+</tr>
+
+<tr>
+<td width="50%" valign="top">
+
+### 🧑‍💻 Docthru Backend
+**Node.js · Express · PostgreSQL · Prisma**
+
+Team backend project with REST APIs, authentication middleware, service/controller architecture, Swagger documentation, and deployment.
+
+[View repository →](https://github.com/junbaehyun/docthru-be)
+
+</td>
+<td width="50%" valign="top">
+
+### 🌏 KORBAN Consulting
+**Web · International Business · Digital Operations**
+
+Web implementation supporting a Korea–Bangladesh consulting business, including service information and operational content for overseas business support.
+
+[View repository →](https://github.com/junbaehyun/korbanconsulting)
+
+</td>
+</tr>
+
+<tr>
+<td width="50%" valign="top">
+
+### 💍 Personalized Invitation
+**React · Firebase · Data Integration**
+
+Interactive wedding invitation project developed around personalized guest experiences, responsive UI, data-driven content, and interactive features.
+
+[View repository →](https://github.com/junbaehyun/invitation)
+
+</td>
+<td width="50%" valign="top">
+
+### 🔧 What I work on professionally
+**Web · Mobile · Automation · International Operations**
+
+I work at the intersection of software and real operational problems: application maintenance, multilingual structured content, workflow automation, internal tools, testing, and cross-border coordination.
+
+</td>
+</tr>
 </table>
+
+---
+
+## 🧭 What I'm looking for
+
+I am building toward roles such as:
+
+- **Software / Web Developer**
+- **Digital Systems Coordinator**
+- **Application / Integration Specialist**
+- **Technical Project Coordinator**
+- **Digital or Program Technology roles in international organizations**
+
+I am particularly interested in teams where technology needs to work across **different languages, cultures, and operational environments**.
+
+---
+
+## 📊 GitHub
+
 <div align="center">
-  <img
-    src="https://github-readme-stats.vercel.app/api/top-langs?username=junbaehyun&show_icons=true&locale=en&layout=compact&theme=transparent"
-    height="150" alt="languages graph" />
-  <img src="https://github-readme-stats.vercel.app/api?username=junbaehyun&show_icons=true&theme=transparent"
-    height="150" alt="stats graph" />
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=junbaehyun&show_icons=true&locale=en&layout=compact&theme=transparent" height="150" alt="Top languages" />
+<img src="https://github-readme-stats.vercel.app/api?username=junbaehyun&show_icons=true&theme=transparent" height="150" alt="GitHub stats" />
+
 </div>
 
-<br />
-
-
-<br />
-
-<h3 align="center">📫 Hire me 📫</h3>
+---
 
 <div align="center">
-  
-  
-  <a href="https://ionized-cold-e43.notion.site/162a7e7ec9bb8000abc3fb3ebcb4ad90">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/4/45/Notion_app_logo.png" alt="Notion" width="30px"/>
-  </a>
+
+**Technology × International Operations × Cross-cultural Service**
+
+[GitHub](https://github.com/junbaehyun)
+
 </div>
